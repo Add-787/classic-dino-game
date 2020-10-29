@@ -5,6 +5,7 @@ class Dino{
     this.y=height-this.r;
     this.vy=0;
     this.gravity=0.5;
+    this.score=0;
   }
   
   jump(){
